@@ -2,7 +2,7 @@ module.exports = {
   title: "Tinysaurus",
   tagline: "Minimal scaffold for Docusaurus",
   url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  baseUrl: "/tinysaurus",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   organizationName: "sanketdg", // Usually your GitHub org/user name.
