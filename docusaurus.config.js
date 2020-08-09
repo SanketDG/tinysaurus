@@ -1,26 +1,23 @@
 module.exports = {
-  title: "My Site",
+  title: "AnitaB Docs Template",
   tagline: "The tagline of my site",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "anita-b", // Usually your GitHub org/user name.
+  projectName: "docs-template", // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: "dark",
+    },
     navbar: {
-      title: "My Site",
+      title: "AnitaB Docs Template",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
       },
       items: [
-        {
-          to: "docs/",
-          activeBasePath: "docs",
-          label: "Docs",
-          position: "left",
-        },
         {
           href: "https://github.com/facebook/docusaurus",
           label: "GitHub",
