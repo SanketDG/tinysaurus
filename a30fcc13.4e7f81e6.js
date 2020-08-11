@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{61:function(s){s.exports=JSON.parse('{"docsSidebars":{"docs":[{"type":"link","label":"Introduction","href":"/tinysaurus/"},{"type":"link","label":"Adding Pages","href":"/tinysaurus/adding-pages"}]},"permalinkToSidebar":{"/tinysaurus/":"docs","/tinysaurus/adding-pages":"docs"},"version":null}')}}]);
