@@ -24,3 +24,5 @@ title: Adding Pages
       id: "adding-pages",
 },
 ```
+
+Here's the [commit](https://github.com/SanketDG/tinysaurus/commit/f7af055a85d51c26a0175fa23b45c6f58e3a1b5e) that adds this page!
